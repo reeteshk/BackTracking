@@ -55,7 +55,7 @@
   </tr>
 
  <tr>
-    <td > word search </td>
+    <td > Word Search </td>
     <td> <a href="https://leetcode.com/problems/word-search/description/?envType=list&envId=pqz81cvm">  word search </a></td>
   </tr>
   <tr>
